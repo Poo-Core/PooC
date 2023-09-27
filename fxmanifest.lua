@@ -30,6 +30,7 @@ dependencies {
 }]]
 
 shared_scripts {
+    'Core/consts.lua',
     'Core/config.lua',
     'Core/class.lua', -- Whole project is based on this file.
     'init.lua',
